@@ -1,6 +1,6 @@
 # Cursor Landing Page Assignment
 
-**Hosted Link:**  
+**Hosted Link: https://shiikharrr.github.io/cursor-ui-clone/ **  
 
 This project is a recreation of the Cursor landing page, focusing on replicating the structure, styling, and responsiveness of the original.
 
